@@ -8,4 +8,6 @@ It is a clone of the game Make Them Fall, where you tap the screen to move chara
 
 Make Them Fall oyununun klonudur; ekrana dokunarak karakterleri bir duvardan diğerine geçirip, engellerden kaçarak puan topladığınız bir oyundur.
 
+GIF!
+
 ![Image](https://github.com/user-attachments/assets/c8518563-3882-4816-94bf-511f1c8cf5c3)
